@@ -1,16 +1,14 @@
-### Hi there 👋
+ 📫 ✉️ 
+ ### _Hi there!_
 
-<!--
-**cs2cs/cs2cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ _I want to become a developer and make web and apps_
 
-Here are some ideas to get you started:
+_I believe in my efforts and will create a wonderful future_ 🍀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### _Languages_
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a>
+<img src="https://img.shields.io/badge/-MySql-3766AB?style=flat&logo=MySql&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-d82d2d?style=flat&logo=Java&logoColor=white">
